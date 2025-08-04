@@ -1,0 +1,19 @@
+# 🔐 Sensitive credentials
+.env
+client_secret_key.json
+token.json
+
+# 🗃 Local databases
+*.db
+
+# 🗑 Python cache and environment
+__pycache__/
+*.pyc
+.history/
+
+# 📁 Logs
+logs/
+*.log
+
+# 💻 VS Code settings (optional)
+.vscode/
